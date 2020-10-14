@@ -18,8 +18,7 @@
     }
   ],
   "require": {
-    "php": ">=7.1.0",
-    "ice-php/require-insensitivity":">=1.0.1"
+    "php": ">=7.1.0"
   },
   "minimum-stability": "dev",
   "autoload": {
